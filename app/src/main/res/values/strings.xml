@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JetpackReader</string>
+    <string name="title_post_detail">Post Detail</string>
+    <string name="menu_share">Share</string>
+    <string name="cd_post_image">Post\'s image</string>
+    <string name="cd_author_image">Author\'s image</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="shared_image">sharedImage</string>
+    <string name="shared_toolbar">sharedToolbar</string>
+</resources>
