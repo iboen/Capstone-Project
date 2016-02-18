@@ -1,6 +1,6 @@
 # Capstone-Project
 
-Here is a fully functional android app which I made from scratch for Android Developer Nanodegree program. This app also reveals the power of adaptive UI both for phone and tablet devices.
+Here is a fully functional android app which I made from scratch for [Android Developer Nanodegree program](https://www.udacity.com/course/viewer#!/c-ud876-1/l-4333029280/m-4376351203). This app also reveals the power of adaptive UI both for phone and tablet devices.
 
 ##Jetpack Reader
 
